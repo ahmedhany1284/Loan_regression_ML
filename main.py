@@ -16,6 +16,7 @@ from sklearn.linear_model import LinearRegression
 
 
 # colab link : https://colab.research.google.com/drive/13xqokz7tlLfVi2qvRo-BqNPZhQMMCrtT?usp=sharing
+# repo link : https://github.com/ahmedhany1284/Loan_regression_ML
 
 
 # Load the "loan_old.csv" dataset
